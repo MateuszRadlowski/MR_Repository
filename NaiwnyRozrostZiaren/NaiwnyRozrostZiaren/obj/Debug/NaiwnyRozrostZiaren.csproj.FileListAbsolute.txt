@@ -1,0 +1,9 @@
+c:\users\mateusz\documents\visual studio 2012\Projects\NaiwnyRozrostZiaren\NaiwnyRozrostZiaren\bin\Debug\NaiwnyRozrostZiaren.exe.config
+c:\users\mateusz\documents\visual studio 2012\Projects\NaiwnyRozrostZiaren\NaiwnyRozrostZiaren\bin\Debug\NaiwnyRozrostZiaren.exe
+c:\users\mateusz\documents\visual studio 2012\Projects\NaiwnyRozrostZiaren\NaiwnyRozrostZiaren\bin\Debug\NaiwnyRozrostZiaren.pdb
+c:\users\mateusz\documents\visual studio 2012\Projects\NaiwnyRozrostZiaren\NaiwnyRozrostZiaren\obj\Debug\NaiwnyRozrostZiaren.csprojResolveAssemblyReference.cache
+c:\users\mateusz\documents\visual studio 2012\Projects\NaiwnyRozrostZiaren\NaiwnyRozrostZiaren\obj\Debug\NaiwnyRozrostZiaren.Form1.resources
+c:\users\mateusz\documents\visual studio 2012\Projects\NaiwnyRozrostZiaren\NaiwnyRozrostZiaren\obj\Debug\NaiwnyRozrostZiaren.Properties.Resources.resources
+c:\users\mateusz\documents\visual studio 2012\Projects\NaiwnyRozrostZiaren\NaiwnyRozrostZiaren\obj\Debug\NaiwnyRozrostZiaren.csproj.GenerateResource.Cache
+c:\users\mateusz\documents\visual studio 2012\Projects\NaiwnyRozrostZiaren\NaiwnyRozrostZiaren\obj\Debug\NaiwnyRozrostZiaren.exe
+c:\users\mateusz\documents\visual studio 2012\Projects\NaiwnyRozrostZiaren\NaiwnyRozrostZiaren\obj\Debug\NaiwnyRozrostZiaren.pdb
