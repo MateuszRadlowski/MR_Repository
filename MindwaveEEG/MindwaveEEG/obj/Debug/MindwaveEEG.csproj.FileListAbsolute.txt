@@ -1,0 +1,13 @@
+c:\users\mateusz\documents\visual studio 2012\Projects\MindwaveEEG\MindwaveEEG\bin\Debug\MindwaveEEG.exe
+c:\users\mateusz\documents\visual studio 2012\Projects\MindwaveEEG\MindwaveEEG\bin\Debug\MindwaveEEG.pdb
+c:\users\mateusz\documents\visual studio 2012\Projects\MindwaveEEG\MindwaveEEG\bin\Debug\ThinkGear.dll
+c:\users\mateusz\documents\visual studio 2012\Projects\MindwaveEEG\MindwaveEEG\bin\Debug\Jayrock.Json.dll
+c:\users\mateusz\documents\visual studio 2012\Projects\MindwaveEEG\MindwaveEEG\bin\Debug\NLog.dll
+c:\users\mateusz\documents\visual studio 2012\Projects\MindwaveEEG\MindwaveEEG\bin\Debug\NLog.xml
+c:\users\mateusz\documents\visual studio 2012\Projects\MindwaveEEG\MindwaveEEG\obj\Debug\MindwaveEEG.csprojResolveAssemblyReference.cache
+c:\users\mateusz\documents\visual studio 2012\Projects\MindwaveEEG\MindwaveEEG\obj\Debug\MindwaveEEG.Form1.resources
+c:\users\mateusz\documents\visual studio 2012\Projects\MindwaveEEG\MindwaveEEG\obj\Debug\MindwaveEEG.Properties.Resources.resources
+c:\users\mateusz\documents\visual studio 2012\Projects\MindwaveEEG\MindwaveEEG\obj\Debug\MindwaveEEG.csproj.GenerateResource.Cache
+c:\users\mateusz\documents\visual studio 2012\Projects\MindwaveEEG\MindwaveEEG\obj\Debug\MindwaveEEG.exe
+c:\users\mateusz\documents\visual studio 2012\Projects\MindwaveEEG\MindwaveEEG\obj\Debug\MindwaveEEG.pdb
+C:\Users\Mateusz\Documents\Visual Studio 2012\Projects\MindwaveEEG\MindwaveEEG\bin\Debug\MindwaveEEG.exe.config
