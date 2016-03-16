@@ -1,0 +1,9 @@
+c:\users\mateusz\documents\visual studio 2012\Projects\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe.config
+c:\users\mateusz\documents\visual studio 2012\Projects\GameOfLife\GameOfLife\bin\Debug\GameOfLife.exe
+c:\users\mateusz\documents\visual studio 2012\Projects\GameOfLife\GameOfLife\bin\Debug\GameOfLife.pdb
+c:\users\mateusz\documents\visual studio 2012\Projects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csprojResolveAssemblyReference.cache
+c:\users\mateusz\documents\visual studio 2012\Projects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.GameOfLife.resources
+c:\users\mateusz\documents\visual studio 2012\Projects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.Properties.Resources.resources
+c:\users\mateusz\documents\visual studio 2012\Projects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.csproj.GenerateResource.Cache
+c:\users\mateusz\documents\visual studio 2012\Projects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.exe
+c:\users\mateusz\documents\visual studio 2012\Projects\GameOfLife\GameOfLife\obj\Debug\GameOfLife.pdb
