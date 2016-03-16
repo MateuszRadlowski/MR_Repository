@@ -1,0 +1,10 @@
+c:\users\mateusz\documents\visual studio 2012\Projects\MyGame\MyGame\bin\Debug\MyGame.exe
+c:\users\mateusz\documents\visual studio 2012\Projects\MyGame\MyGame\bin\Debug\MyGame.pdb
+c:\users\mateusz\documents\visual studio 2012\Projects\MyGame\MyGame\obj\Debug\MyGame.csprojResolveAssemblyReference.cache
+c:\users\mateusz\documents\visual studio 2012\Projects\MyGame\MyGame\obj\Debug\MyGame.Properties.Resources.resources
+c:\users\mateusz\documents\visual studio 2012\Projects\MyGame\MyGame\obj\Debug\MyGame.csproj.GenerateResource.Cache
+c:\users\mateusz\documents\visual studio 2012\Projects\MyGame\MyGame\obj\Debug\MyGame.exe
+c:\users\mateusz\documents\visual studio 2012\Projects\MyGame\MyGame\obj\Debug\MyGame.pdb
+C:\Users\Mateusz\documents\visual studio 2012\Projects\MyGame\MyGame\obj\Debug\MyGame.MultiPlayer.resources
+C:\Users\Mateusz\documents\visual studio 2012\Projects\MyGame\MyGame\obj\Debug\MyGame.SinglePlayer.resources
+C:\Users\Mateusz\documents\visual studio 2012\Projects\MyGame\MyGame\obj\Debug\MyGame.Mmenu.resources
